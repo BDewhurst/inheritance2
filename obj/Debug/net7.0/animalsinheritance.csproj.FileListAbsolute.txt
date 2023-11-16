@@ -1,0 +1,15 @@
+/home/brad1996/Csharp-course/animalsinheritance/bin/Debug/net7.0/animalsinheritance
+/home/brad1996/Csharp-course/animalsinheritance/bin/Debug/net7.0/animalsinheritance.deps.json
+/home/brad1996/Csharp-course/animalsinheritance/bin/Debug/net7.0/animalsinheritance.runtimeconfig.json
+/home/brad1996/Csharp-course/animalsinheritance/bin/Debug/net7.0/animalsinheritance.dll
+/home/brad1996/Csharp-course/animalsinheritance/bin/Debug/net7.0/animalsinheritance.pdb
+/home/brad1996/Csharp-course/animalsinheritance/obj/Debug/net7.0/animalsinheritance.csproj.AssemblyReference.cache
+/home/brad1996/Csharp-course/animalsinheritance/obj/Debug/net7.0/animalsinheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/brad1996/Csharp-course/animalsinheritance/obj/Debug/net7.0/animalsinheritance.AssemblyInfoInputs.cache
+/home/brad1996/Csharp-course/animalsinheritance/obj/Debug/net7.0/animalsinheritance.AssemblyInfo.cs
+/home/brad1996/Csharp-course/animalsinheritance/obj/Debug/net7.0/animalsinheritance.csproj.CoreCompileInputs.cache
+/home/brad1996/Csharp-course/animalsinheritance/obj/Debug/net7.0/animalsinheritance.dll
+/home/brad1996/Csharp-course/animalsinheritance/obj/Debug/net7.0/refint/animalsinheritance.dll
+/home/brad1996/Csharp-course/animalsinheritance/obj/Debug/net7.0/animalsinheritance.pdb
+/home/brad1996/Csharp-course/animalsinheritance/obj/Debug/net7.0/animalsinheritance.genruntimeconfig.cache
+/home/brad1996/Csharp-course/animalsinheritance/obj/Debug/net7.0/ref/animalsinheritance.dll
